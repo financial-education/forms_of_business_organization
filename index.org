@@ -51,3 +51,17 @@ Legal systems and laws differ among countries, and so does the definition of a c
 * Balance
 
 So when a firm is deciding whether to take the corporate form, it weighs the benefits of the corporate form versus the costs.
+
+* Corporations and Financial Markets
+
+That the corporation is infinitely-lived facilitates selling equity (known as stock) and debt (notes and bonds) to finance the company's assets.  Securities (stock and bonds) are sold in /financial markets/.
+
+** Primary Markets vs Secondary Markets
+
+Primary market transactions are those that involve the company, such as initial public offerings (IPO) or seasoned equity offerings (SEO).  In secondary markets, investors exchange securities among themselves, and the corporation itself is not part of the trade.  That does not mean the managers and owners of corporation are not interested however---management compensation is commonly determined by secondary market security (mainly stock) prices.
+
+We make a distinction between primary and secondary markets because their structure and participants are quite different.  Think of pricing an IPO where you don't have a publicly traded stock price to reference.  This can be quite difficult, and is often accomplished via /bookbuilding/.  This is where you go to various investors and ask what they would pay. Alternatively, you are valuing a stock in the secondary market, you already have a market clearing price available.
+
+We will talk about stock and bond secondary market structure in later chapters, however here note that they are actively evolving.  Trading venues and mechanisms are vastly different today than they were 40 years ago, and they will likely be very different in 40 years.
+
+
