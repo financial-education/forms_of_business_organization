@@ -1,6 +1,6 @@
 #+title: Forms of Business Organization
 #+author: Matt Brigida, Ph.D.
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 
 * Sole Proprietorship
@@ -37,11 +37,12 @@ Costs:
 Most businesses, as they grow, will become a corporation.
 
 #+BEGIN_QUOTE
-You may hear some lamenting the double taxation of corporations.  On the news they will usually feign a little surprise, but is double taxation surprising?   
+You may hear some acting surprised about the double-taxation of corporations.
+It is really a surprise?
 
 A sole proprietorship is taxed once, but since the owner is the same legal entity as the business, the owner is also liable for business debts.  So the owner creates a *new* legal entity which is the business itself, and the owner is now not liable for the businesses debts. But since his is a separate legel entity, it has to pay taxes also.  
 
-So double taxation wasn't created to hinder business, it is a consequence of obtaining limited liability for the owner. The owner can have single taxation whenever they want, they just have to assume the businesses debts. 
+So double taxation wasn't created out of the blue, it is a consequence of obtaining limited liability for the owner. The owner can have single taxation whenever they want, they just have to assume the businesses debts. 
 #+END_QUOTE
 
 ** Foreign Corporations
